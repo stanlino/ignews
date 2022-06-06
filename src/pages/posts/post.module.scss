@@ -45,5 +45,13 @@
         text-decoration: underline;
       }
     }
+
+    pre {
+      padding: 1rem;
+      border-radius: 5px;
+      background: rgba($color: #000000, $alpha: 0.5);
+      overflow-x: auto;
+      margin-bottom: 1rem;
+    }
   }
 }
